@@ -29,6 +29,10 @@ status-website:
 
 runner: "self-hosted"
 
+commitMessages:
+  commitAuthorName: "AvianJay"
+  commitAuthorEmail: "avianjay@avianjay.sbs"
+
 i18n:
   activeIncidents: 活動中的事件
   allSystemsOperational: 所有系統均正常運作
