@@ -11,6 +11,16 @@ sites:
     url: $GCP_IP
   - name: Bus API
     url: $BUSAPI_IP
+  - name: Discord Bot
+    url: https://procstat.avianjay.sbs/dcbot
+  - name: Self Flagger
+    url: https://procstat.avianjay.sbs/selfflagger
+  - name: OXWU
+    url: https://procstat.avianjay.sbs/oxwu
+  - name: OXWU Reportd
+    url: https://procstat.avianjay.sbs/oxwu_reportd
+  - name: BreakBlock Server
+    url: https://breakblock.avianjay.sbs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
