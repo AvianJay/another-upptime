@@ -29,3 +29,66 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: 活動中的事件
+  allSystemsOperational: 所有系統均正常運作
+  incidentReport: "事件 #$NUMBER 報告 →"
+  activeIncidentSummary: 於 $DATE 開啟，共有 $POSTS 則貼文
+  incidentTitle: 事件 $NUMBER 詳細資訊
+  incidentDetails: 事件詳細資訊
+  incidentFixed: 已修復
+  incidentOngoing: 進行中
+  incidentOpenedAt: 開啟於
+  incidentClosedAt: 結束於
+  incidentViewOnGitHub: 在 GitHub 查看並訂閱
+  incidentCommentSummary: 於 $DATE 由 $AUTHOR 發佈
+  incidentBack: ← 返回所有事件
+  pastIncidents: 過往事件
+  pastIncidentsResolved: 於 $MINUTES 分鐘內解決，共 $POSTS 則貼文
+  liveStatus: 即時狀態
+  overallUptime: "整體運作時間：$UPTIME"
+  overallUptimeTitle: 整體運作時間
+  averageResponseTime: "平均回應時間：$TIME 毫秒"
+  averageResponseTimeTitle: 平均回應時間
+  sevelDayResponseTime: 7 天回應時間
+  responseTimeMs: 回應時間（毫秒）
+  up: 正常
+  down: 異常
+  degraded: 降低服務品質
+  ms: 毫秒
+  loading: 加載中
+  navGitHub: GitHub
+  footer: 用 [Upptime](https://upptime.js.org) 做的 哈哈
+  rateLimitExceededTitle: 已超出速率限制
+  rateLimitExceededIntro: 你已超出每小時可使用的請求數量，因此需要等待一段時間才能再次存取此網站。或者，你可以加入 GitHub 個人存取權杖以繼續使用本網站。
+  rateLimitExceededWhatDoesErrorMean: 這個錯誤代表什麼？
+  rateLimitExceededErrorMeaning: 本網站使用 GitHub API 來存取網站狀態的即時資料。預設情況下，GitHub 允許每個 IP 每小時 60 個請求，而你已經用完了。
+  rateLimitExceededErrorHowCanFix: 我該如何解決？
+  rateLimitExceededErrorFix: 你可以等待下一個小時，IP 的限制會被重置。或者，你可以加入你的 GitHub 個人存取權杖，這會額外提供每小時 5000 次請求。
+  rateLimitExceededGeneratePAT: 了解如何產生個人存取權杖
+  rateLimitExceededHasSet: 你已設定個人存取權杖。
+  rateLimitExceededRemoveToken: 移除權杖
+  rateLimitExceededGitHubPAT: GitHub 個人存取權杖
+  rateLimitExceededCopyPastePAT: 請複製並貼上你的權杖
+  rateLimitExceededSaveToken: 儲存權杖
+  errorTitle: 發生錯誤
+  errorIntro: 嘗試取得最新狀態資訊時發生錯誤。
+  errorText: 稍後你可以再試一次。
+  errorHome: 返回首頁
+  pastScheduledMaintenance: 過往排程維護
+  scheduledMaintenance: 排程維護
+  scheduledMaintenanceSummaryStarted: 於 $DATE 開始，持續 $DURATION 分鐘
+  scheduledMaintenanceSummaryStarts: 將於 $DATE 開始，預計持續 $DURATION 分鐘
+  startedAt: 開始於
+  startsAt: 將開始於
+  duration: 持續時間
+  durationMin: $DURATION 分鐘
+  incidentCompleted: 已完成
+  incidentScheduled: 已排程
+  duration24H: 24 小時
+  duration7D: 7 天
+  duration30D: 30 天
+  duration1Y: 1 年
+  durationAll: 全部
+  locale: zh-TW
