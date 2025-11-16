@@ -4,19 +4,20 @@
     "url": "https://avianjay.sbs",
     "icon": "https://icons.duckduckgo.com/ip3/avianjay.sbs.ico",
     "slug": "main-website",
-    "status": "up",
-    "uptime": "2.84%",
-    "uptimeDay": "40.54%",
-    "uptimeWeek": "5.79%",
-    "uptimeMonth": "2.84%",
-    "uptimeYear": "2.84%",
-    "time": 186,
-    "timeDay": 196,
-    "timeWeek": 188,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "status": "down",
+    "uptime": "3.34%",
+    "uptimeDay": "47.87%",
+    "uptimeWeek": "6.84%",
+    "uptimeMonth": "3.34%",
+    "uptimeYear": "3.34%",
+    "time": 232,
+    "timeDay": 379,
+    "timeWeek": 272,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-11-15": 985,
+      "2025-11-16": 25,
+      "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -29,8 +30,7 @@
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 261
+      "2025-11-02": 1221
     }
   },
   {
@@ -38,9 +38,9 @@
     "url": "$RPI_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raspberry-pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -49,7 +49,9 @@
     "timeWeek": 448,
     "timeMonth": 451,
     "timeYear": 451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-16": 0
+    }
   },
   {
     "name": "GCP",
@@ -75,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bus-api",
     "status": "up",
-    "uptime": "2.84%",
-    "uptimeDay": "40.55%",
-    "uptimeWeek": "5.79%",
-    "uptimeMonth": "2.84%",
-    "uptimeYear": "2.84%",
+    "uptime": "3.34%",
+    "uptimeDay": "47.90%",
+    "uptimeWeek": "6.84%",
+    "uptimeMonth": "3.34%",
+    "uptimeYear": "3.34%",
     "time": 140,
     "timeDay": 113,
     "timeWeek": 125,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-11-15": 986,
+      "2025-11-16": 26,
+      "2025-11-15": 1440,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -99,8 +102,7 @@
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 261
+      "2025-11-02": 1221
     }
   },
   {
@@ -109,18 +111,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/procstat.avianjay.sbs.ico",
     "slug": "discord-bot",
     "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
+    "uptime": "98.92%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
     "time": 153,
     "timeDay": 153,
     "timeWeek": 153,
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-11-15": 7
+      "2025-11-16": 7
     }
   },
   {
@@ -129,18 +131,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/procstat.avianjay.sbs.ico",
     "slug": "self-flagger",
     "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
+    "uptime": "98.71%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 37,
     "timeDay": 37,
     "timeWeek": 37,
     "timeMonth": 37,
     "timeYear": 37,
     "dailyMinutesDown": {
-      "2025-11-15": 8
+      "2025-11-16": 8
     }
   },
   {
@@ -149,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/procstat.avianjay.sbs.ico",
     "slug": "oxwu",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.90%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 38,
     "timeDay": 38,
     "timeWeek": 38,
     "timeMonth": 38,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2025-11-15": 7
+      "2025-11-16": 7
     }
   },
   {
@@ -169,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/procstat.avianjay.sbs.ico",
     "slug": "oxwu-reportd",
     "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "98.64%",
+    "uptime": "98.89%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 38,
     "timeDay": 38,
     "timeWeek": 38,
     "timeMonth": 38,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2025-11-15": 7
+      "2025-11-16": 7
     }
   },
   {
@@ -189,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/breakblock.avianjay.sbs.ico",
     "slug": "break-block-server",
     "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "98.49%",
+    "uptime": "98.77%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
     "time": 126,
     "timeDay": 126,
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-11-15": 8
+      "2025-11-16": 8
     }
   }
 ]
