@@ -1,7 +1,7 @@
 url: https://procstat.avianjay.sbs/oxwu
-status: down
-code: 500
-responseTime: 10
-lastUpdated: 2025-11-18T11:57:44.703Z
+status: up
+code: 200
+responseTime: 27
+lastUpdated: 2025-11-18T14:34:52.484Z
 startTime: 2025-11-15T18:06:12.475Z
 generator: Upptime <https://github.com/upptime/upptime>
