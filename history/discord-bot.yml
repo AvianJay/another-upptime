@@ -1,7 +1,7 @@
 url: https://procstat.avianjay.sbs/dcbot
-status: up
-code: 200
-responseTime: 135
-lastUpdated: 2025-11-17T23:23:48.850Z
+status: down
+code: 500
+responseTime: 79
+lastUpdated: 2025-11-18T11:57:38.960Z
 startTime: 2025-11-15T18:06:08.104Z
 generator: Upptime <https://github.com/upptime/upptime>
