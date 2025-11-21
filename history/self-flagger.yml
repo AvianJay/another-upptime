@@ -1,7 +1,7 @@
 url: https://procstat.avianjay.sbs/selfflagger
-status: up
-code: 200
-responseTime: 30
-lastUpdated: 2025-11-20T23:29:11.129Z
+status: down
+code: 404
+responseTime: 34
+lastUpdated: 2025-11-21T16:41:00.444Z
 startTime: 2025-11-15T18:06:11.721Z
 generator: Upptime <https://github.com/upptime/upptime>
