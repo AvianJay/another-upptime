@@ -38,6 +38,12 @@ jobs:
           command: "update-template"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - name: Bypass Cloudflare for GitHub Action
+        uses: xiaotianxt/bypass-cloudflare-for-github-action@v2.0.1
+        with:
+          cf_account_id: ${{ secrets.CF_ACCOUNT_ID }}
+          cf_zone_id: ${{ secrets.CF_ZONE_ID }}
+          cf_api_token: ${{ secrets.CF_API_TOKEN }}
       - name: Update response time
         uses: upptime/uptime-monitor@v1.41.0
         with:
