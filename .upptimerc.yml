@@ -12,7 +12,7 @@ sites:
   - name: Bus API
     url: $BUSAPI_IP
   - name: Discord Bot
-    url: https://procstat.avianjay.sbs/dcbot
+    url: https://yee.avianjay.sbs/
   - name: Self Flagger
     url: https://procstat.avianjay.sbs/selfflagger
   - name: OXWU
