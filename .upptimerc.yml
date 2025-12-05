@@ -7,8 +7,8 @@ sites:
     url: https://avianjay.sbs
   - name: Raspberry PI
     url: $RPI_IP
-  - name: GCP
-    url: $GCP_IP
+  - name: GCP-us-east
+    url: https://us.avianjay.sbs
   - name: Bus API
     url: $BUSAPI_IP
   - name: Discord Bot
