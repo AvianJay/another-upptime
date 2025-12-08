@@ -9,16 +9,28 @@ sites:
     url: $RPI_IP
   - name: GCP-us-east
     url: https://us.avianjay.sbs
+  - name: TW Server
+    url: https://tw-proc.avianjay.sbs/
   - name: Bus API
     url: $BUSAPI_IP
   - name: Discord Bot
     url: https://yee.avianjay.sbs/
+  - name: Discord Bot (Test)
+    url: https://yeetest.avianjay.sbs/
   - name: Self Flagger
-    url: https://procstat.avianjay.sbs/selfflagger
+    url: https://us-proc.avianjay.sbs/selfflagger
   - name: OXWU
-    url: https://procstat.avianjay.sbs/oxwu
+    url: https://tw-proc.avianjay.sbs/oxwu
   - name: OXWU Reportd
-    url: https://procstat.avianjay.sbs/oxwu_reportd
+    url: https://tw-proc.avianjay.sbs/oxwu_reportd
+  - name: ArchiSteamFarm
+    url: https://tw-proc.avianjay.sbs/asf
+  - name: ArchiSteamFarm Bot
+    url: https://tw-proc.avianjay.sbs/asf_bot
+  - name: PaperMC Server
+    url: https://tw-proc.avianjay.sbs/paper
+  - name: GeyserMC Server
+    url: https://tw-proc.avianjay.sbs/geyser
   - name: BreakBlock Server
     url: https://breakblock.avianjay.sbs
 
