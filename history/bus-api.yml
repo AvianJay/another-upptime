@@ -1,7 +1,7 @@
 url: $BUSAPI_IP
-status: up
-code: 200
-responseTime: 690
-lastUpdated: 2025-12-21T23:15:27.363Z
+status: down
+code: 530
+responseTime: 196
+lastUpdated: 2025-12-22T21:33:24.886Z
 startTime: 2025-11-01T19:39:18.169Z
 generator: Upptime <https://github.com/upptime/upptime>
