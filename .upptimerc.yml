@@ -9,6 +9,8 @@ sites:
     url: $RPI_IP
   - name: GCP-us-east
     url: https://us.avianjay.sbs
+  - name: US East 2
+    url: https://ue2-proc.avianjay.sbs
   - name: TW Server
     url: https://tw-proc.avianjay.sbs/
   - name: Bus API
@@ -18,7 +20,7 @@ sites:
   - name: Discord Bot (Test)
     url: https://yeetest.avianjay.sbs/
   - name: Self Flagger
-    url: https://us-proc.avianjay.sbs/selfflagger
+    url: https://ue2-proc.avianjay.sbs/selfflagger
   - name: OXWU
     url: https://tw-proc.avianjay.sbs/oxwu
   - name: OXWU Reportd
