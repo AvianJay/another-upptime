@@ -1,7 +1,7 @@
-url: https://us-proc.avianjay.sbs/selfflagger
-status: down
-code: 502
-responseTime: 331
-lastUpdated: 2026-01-04T23:16:33.150Z
+url: https://ue2-proc.avianjay.sbs/selfflagger
+status: up
+code: 200
+responseTime: 127
+lastUpdated: 2026-01-05T01:53:54.329Z
 startTime: 2025-11-15T18:06:11.721Z
 generator: Upptime <https://github.com/upptime/upptime>
