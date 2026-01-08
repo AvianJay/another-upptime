@@ -46,7 +46,7 @@ status-website:
   introTitle: "AvianJay's Uptime lol"
   introMessage: Hello
   navbar:
-    - title: Status
+    - title: 狀態
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
