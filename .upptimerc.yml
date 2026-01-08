@@ -90,7 +90,7 @@ i18n:
   ms: 毫秒
   loading: 加載中
   navGitHub: GitHub
-  footer: [角蛙社群](https://discord.gg/xNFpR9PgSP) | [Upptime](https://upptime.js.org)
+  footer: "[角蛙社群](https://discord.gg/xNFpR9PgSP) | [Upptime](https://upptime.js.org)"
   rateLimitExceededTitle: 已超出速率限制
   rateLimitExceededIntro: 你已超出每小時可使用的請求數量，因此需要等待一段時間才能再次存取此網站。或者，你可以加入 GitHub 個人存取權杖以繼續使用本網站。
   rateLimitExceededWhatDoesErrorMean: 這個錯誤代表什麼？
