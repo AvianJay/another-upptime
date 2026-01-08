@@ -118,4 +118,6 @@ i18n:
   duration30D: 30 天
   duration1Y: 1 年
   durationAll: 全部
+  notificationStatusLabel: "服務狀態"
+  notificationResponseTimeLabel: "延遲"
   locale: zh-TW
