@@ -33,7 +33,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update template
-        uses: upptime/uptime-monitor@v1.41.0
+        uses: AvianJay/uptime-monitor@copilot/add-webhook-embed-structure
         with:
           command: "update-template"
         env:
@@ -46,14 +46,14 @@ jobs:
           cf_zone_id: ${{ secrets.CF_ZONE_ID }}
           cf_api_token: ${{ secrets.CF_API_TOKEN }}
       - name: Update response time
-        uses: upptime/uptime-monitor@v1.41.0
+        uses: AvianJay/uptime-monitor@copilot/add-webhook-embed-structure
         with:
           command: "response-time"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
       - name: Update summary in README
-        uses: upptime/uptime-monitor@v1.41.0
+        uses: AvianJay/uptime-monitor@copilot/add-webhook-embed-structure
         with:
           command: "readme"
         env:
@@ -64,7 +64,7 @@ jobs:
           workflow: Graphs CI
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@v1.41.0
+        uses: AvianJay/uptime-monitor@copilot/add-webhook-embed-structure
         with:
           command: "site"
         env:
