@@ -21,6 +21,8 @@ sites:
     url: https://yeetest.avianjay.sbs/
   - name: Self Flagger
     url: https://ue2-proc.avianjay.sbs/selfflagger
+  - name: aniGamerPlus
+    url: https://agpp.avianjay.sbs
   - name: OXWU
     url: https://tw-proc.avianjay.sbs/oxwu
   - name: OXWU Reportd
@@ -48,6 +50,8 @@ status-website:
   navbar:
     - title: 狀態
       href: /
+    - title: Discord
+      href: https://discord.gg/xNFpR9PgSP
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
@@ -86,7 +90,7 @@ i18n:
   ms: 毫秒
   loading: 加載中
   navGitHub: GitHub
-  footer: 用 [Upptime](https://upptime.js.org) 做的 哈哈
+  footer: [角蛙社群](https://discord.gg/xNFpR9PgSP) | [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: 已超出速率限制
   rateLimitExceededIntro: 你已超出每小時可使用的請求數量，因此需要等待一段時間才能再次存取此網站。或者，你可以加入 GitHub 個人存取權杖以繼續使用本網站。
   rateLimitExceededWhatDoesErrorMean: 這個錯誤代表什麼？
