@@ -39,7 +39,7 @@ jobs:
           cf_zone_id: ${{ secrets.CF_ZONE_ID }}
           cf_api_token: ${{ secrets.CF_API_TOKEN }}
       - name: Check endpoint status
-        uses: upptime/uptime-monitor@v1.41.0
+        uses: AvianJay/uptime-monitor@copilot/add-webhook-embed-structure
         with:
           command: "update"
         env:
