@@ -39,7 +39,7 @@ jobs:
           cf_zone_id: ${{ secrets.CF_ZONE_ID }}
           cf_api_token: ${{ secrets.CF_API_TOKEN }}
       - name: Update response time
-        uses: AvianJay/uptime-monitor@copilot/add-webhook-embed-structure
+        uses: AvianJay/uptime-monitor@master
         with:
           command: "response-time"
         env:
