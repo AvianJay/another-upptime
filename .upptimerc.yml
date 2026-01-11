@@ -124,4 +124,6 @@ i18n:
   durationAll: 全部
   notificationStatusLabel: "服務狀態"
   notificationResponseTimeLabel: "延遲"
+  notificationLinksLabel: "連結"
+  viewHistory: 查看歷史記錄
   locale: zh-TW
