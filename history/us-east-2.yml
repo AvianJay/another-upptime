@@ -1,7 +1,7 @@
 url: https://ue2-proc.avianjay.sbs
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2026-01-22T23:17:57.157Z
+status: down
+code: 502
+responseTime: 275
+lastUpdated: 2026-01-23T15:35:24.420Z
 startTime: 2026-01-05T01:53:50.864Z
 generator: Upptime <https://github.com/upptime/upptime>
