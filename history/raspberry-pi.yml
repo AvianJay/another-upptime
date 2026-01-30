@@ -1,7 +1,7 @@
 url: $RPI_IP
 status: up
 code: 200
-responseTime: 416
-lastUpdated: 2026-01-29T23:22:42.060Z
+responseTime: 364
+lastUpdated: 2026-01-30T23:21:39.042Z
 startTime: 2025-11-01T19:39:15.997Z
 generator: Upptime <https://github.com/upptime/upptime>
