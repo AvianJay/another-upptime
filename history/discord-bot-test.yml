@@ -1,7 +1,12 @@
 url: https://yeetest.avianjay.sbs/
 status: down
 code: 502
+<<<<<<< HEAD
 responseTime: 977
 lastUpdated: 2026-02-08T23:28:04.894Z
+=======
+responseTime: 610
+lastUpdated: 2026-02-09T13:39:38.623Z
+>>>>>>> 41e92c00 (🟥 Discord Bot (Test) is down (502 in 610 ms) [skip ci] [upptime])
 startTime: 2025-12-08T03:18:22.706Z
 generator: Upptime <https://github.com/upptime/upptime>

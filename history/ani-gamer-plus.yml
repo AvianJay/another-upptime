@@ -1,7 +1,14 @@
 url: https://agpp.avianjay.sbs
+<<<<<<< HEAD
 status: up
 code: 200
 responseTime: 582
 lastUpdated: 2026-02-08T23:40:48.652Z
+=======
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-02-04T15:31:30.802Z
+>>>>>>> 41e92c00 (🟥 Discord Bot (Test) is down (502 in 610 ms) [skip ci] [upptime])
 startTime: 2026-01-08T18:36:02.005Z
 generator: Upptime <https://github.com/upptime/upptime>
