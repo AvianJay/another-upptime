@@ -1,7 +1,7 @@
 url: https://tw-proc.avianjay.sbs/
-status: up
-code: 200
-responseTime: 537
-lastUpdated: 2026-06-11T02:26:36.812Z
+status: down
+code: 502
+responseTime: 692
+lastUpdated: 2026-06-11T04:54:40.373Z
 startTime: 2026-02-10T03:05:50.793Z
 generator: Upptime <https://github.com/upptime/upptime>
