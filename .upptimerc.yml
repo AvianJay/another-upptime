@@ -42,12 +42,13 @@ status-website:
   navbar:
     - title: 狀態
       href: /
+    - title: 主機狀態
+      href: https://status.avianjay.sbs/
     - title: Discord
       href: https://discord.gg/xNFpR9PgSP
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-runner: "self-hosted"
 
 i18n:
   activeIncidents: 活動中的事件
