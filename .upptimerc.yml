@@ -5,16 +5,10 @@ repo: another-upptime # The name of this repository
 sites:
   - name: Main Website
     url: https://avianjay.sbs
-  - name: Raspberry PI
-    url: $RPI_IP
-  - name: GCP-us-east
-    url: https://us.avianjay.sbs
-  - name: US East 2
-    url: https://ue2-proc.avianjay.sbs
-  - name: TW Server
-    url: https://tw-proc.avianjay.sbs/
+  - name: Status Website
+    url: https://status.avianjay.sbs/
   - name: Bus API
-    url: $BUSAPI_IP
+    url: https://bus.avianjay.sbs/
   - name: Discord Bot
     url: https://yee.avianjay.sbs/
   - name: Discord Bot (Test)
@@ -25,8 +19,6 @@ sites:
     url: https://agpp.avianjay.sbs
   - name: OXWU
     url: https://tw-proc.avianjay.sbs/oxwu
-  - name: OXWU Reportd
-    url: https://tw-proc.avianjay.sbs/oxwu_reportd
   - name: ArchiSteamFarm
     url: https://tw-proc.avianjay.sbs/asf
   - name: ArchiSteamFarm Bot
