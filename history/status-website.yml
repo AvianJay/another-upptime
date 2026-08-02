@@ -1,7 +1,7 @@
 url: https://status.avianjay.sbs/
-status: down
-code: 502
-responseTime: 71
-lastUpdated: 2026-08-02T23:02:04.710Z
+status: up
+code: 200
+responseTime: 123
+lastUpdated: 2026-08-02T23:04:04.576Z
 startTime: 2026-06-16T04:47:59.569Z
 generator: Upptime <https://github.com/upptime/upptime>
