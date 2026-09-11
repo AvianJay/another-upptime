@@ -1,7 +1,7 @@
 url: https://yeetest.avianjay.sbs/
-status: up
-code: 200
-responseTime: 491
-lastUpdated: 2026-09-06T11:26:05.873Z
+status: down
+code: 409
+responseTime: 1062
+lastUpdated: 2026-09-11T15:10:06.943Z
 startTime: 2026-02-09T13:40:38.222Z
 generator: Upptime <https://github.com/upptime/upptime>
