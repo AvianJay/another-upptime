@@ -1,7 +1,7 @@
 url: https://tw-proc.avianjay.sbs/geyser
-status: up
-code: 200
-responseTime: 173
-lastUpdated: 2026-10-11T07:18:22.928Z
+status: down
+code: 502
+responseTime: 166
+lastUpdated: 2026-10-11T11:14:24.528Z
 startTime: 2025-12-08T03:18:35.092Z
 generator: Upptime <https://github.com/upptime/upptime>
