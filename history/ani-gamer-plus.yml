@@ -1,7 +1,7 @@
 url: https://agpp.avianjay.sbs
-status: up
-code: 200
-responseTime: 596
-lastUpdated: 2026-10-23T05:08:08.768Z
+status: down
+code: 502
+responseTime: 10593
+lastUpdated: 2026-10-23T05:12:38.925Z
 startTime: 2026-02-09T13:40:40.071Z
 generator: Upptime <https://github.com/upptime/upptime>
