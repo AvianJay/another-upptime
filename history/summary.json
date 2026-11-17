@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/avianjay.sbs.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "94.34%",
+    "uptime": "94.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.73%",
@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 11300,
-    "timeYear": 1619,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2026-11-03": 246,
       "2026-11-02": 1440,
@@ -56,8 +56,7 @@
       "2025-11-21": 2,
       "2025-11-20": 14,
       "2025-11-19": 3,
-      "2025-11-18": 185,
-      "2025-11-17": 9
+      "2025-11-18": 185
     }
   },
   {
@@ -97,7 +96,7 @@
     "timeDay": 0,
     "timeWeek": 512,
     "timeMonth": 2850,
-    "timeYear": 833,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2026-10-19": 44,
       "2026-09-18": 186,
@@ -142,8 +141,7 @@
       "2025-11-21": 2,
       "2025-11-20": 14,
       "2025-11-19": 3,
-      "2025-11-18": 213,
-      "2025-11-17": 9
+      "2025-11-18": 213
     }
   },
   {
@@ -156,12 +154,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 320,
     "timeDay": 0,
     "timeWeek": 409,
     "timeMonth": 724,
-    "timeYear": 321,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2026-07-09": 70,
       "2026-04-22": 72,
@@ -203,8 +201,7 @@
       "2025-11-21": 2,
       "2025-11-20": 14,
       "2025-11-19": 3,
-      "2025-11-18": 163,
-      "2025-11-17": 9
+      "2025-11-18": 163
     }
   },
   {
@@ -213,18 +210,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yeetest.avianjay.sbs.ico",
     "slug": "discord-bot-test",
     "status": "down",
-    "uptime": "79.16%",
+    "uptime": "79.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.64%",
-    "uptimeYear": "79.16%",
+    "uptimeMonth": "8.64%",
+    "uptimeYear": "79.07%",
     "time": 723,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 709,
+    "timeMonth": 357,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2026-11-16": 1077,
+      "2026-11-17": 75,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -341,18 +339,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ue2-proc.avianjay.sbs.ico",
     "slug": "self-flagger",
     "status": "down",
-    "uptime": "51.92%",
+    "uptime": "51.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.79%",
+    "uptimeYear": "51.70%",
     "time": 167,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 168,
+    "timeYear": 169,
     "dailyMinutesDown": {
-      "2026-11-16": 1077,
+      "2026-11-17": 75,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -537,8 +536,7 @@
       "2025-11-21": 439,
       "2025-11-20": 14,
       "2025-11-19": 1411,
-      "2025-11-18": 576,
-      "2025-11-17": 9
+      "2025-11-18": 576
     }
   },
   {
@@ -547,11 +545,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agpp.avianjay.sbs.ico",
     "slug": "ani-gamer-plus",
     "status": "up",
-    "uptime": "77.91%",
+    "uptime": "77.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.84%",
-    "uptimeYear": "77.91%",
+    "uptimeYear": "77.94%",
     "time": 2131,
     "timeDay": 0,
     "timeWeek": 0,
@@ -649,18 +647,19 @@
     "url": "https://tw-proc.avianjay.sbs/oxwu",
     "icon": "https://icons.duckduckgo.com/ip3/tw-proc.avianjay.sbs.ico",
     "slug": "oxwu",
-    "status": "up",
-    "uptime": "94.00%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.01%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "93.99%",
     "time": 569,
-    "timeDay": 0,
-    "timeWeek": 1263,
-    "timeMonth": 1138,
-    "timeYear": 572,
+    "timeDay": 793,
+    "timeWeek": 1196,
+    "timeMonth": 1175,
+    "timeYear": 575,
     "dailyMinutesDown": {
+      "2026-11-17": 0,
       "2026-10-24": 54,
       "2026-10-18": 636,
       "2026-10-17": 1054,
@@ -741,8 +740,7 @@
       "2025-11-21": 2,
       "2025-11-20": 14,
       "2025-11-19": 3,
-      "2025-11-18": 163,
-      "2025-11-17": 9
+      "2025-11-18": 163
     }
   },
   {
@@ -759,7 +757,7 @@
     "time": 272,
     "timeDay": 0,
     "timeWeek": 853,
-    "timeMonth": 359,
+    "timeMonth": 374,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2026-11-09": 690,
@@ -838,11 +836,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw-proc.avianjay.sbs.ico",
     "slug": "archi-steam-farm-bot",
     "status": "up",
-    "uptime": "94.48%",
+    "uptime": "94.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.28%",
-    "uptimeYear": "94.48%",
+    "uptimeYear": "94.49%",
     "time": 395,
     "timeDay": 0,
     "timeWeek": 270,
@@ -919,18 +917,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw-proc.avianjay.sbs.ico",
     "slug": "paper-mc-server",
     "status": "down",
-    "uptime": "54.24%",
+    "uptime": "54.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.24%",
+    "uptimeYear": "54.19%",
     "time": 221,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-11-16": 1077,
+      "2026-11-17": 75,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -1207,7 +1206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/breakblock.avianjay.sbs.ico",
     "slug": "break-block-server",
     "status": "down",
-    "uptime": "54.90%",
+    "uptime": "54.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1216,7 +1215,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2026-06-16": 128,
       "2026-06-15": 1440,
@@ -1401,8 +1400,7 @@
       "2025-11-21": 2,
       "2025-11-20": 14,
       "2025-11-19": 3,
-      "2025-11-18": 144,
-      "2025-11-17": 9
+      "2025-11-18": 144
     }
   }
 ]
