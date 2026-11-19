@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/avianjay.sbs.ico",
     "slug": "main-website",
     "status": "up",
-    "uptime": "94.36%",
+    "uptime": "94.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "81.52%",
@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 15521,
     "timeMonth": 11976,
-    "timeYear": 1733,
+    "timeYear": 1742,
     "dailyMinutesDown": {
       "2026-11-17": 92,
       "2026-11-03": 246,
@@ -55,8 +55,7 @@
       "2025-11-23": 2,
       "2025-11-22": 6,
       "2025-11-21": 2,
-      "2025-11-20": 14,
-      "2025-11-19": 3
+      "2025-11-20": 14
     }
   },
   {
@@ -96,7 +95,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2850,
-    "timeYear": 843,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2026-10-19": 44,
       "2026-09-18": 186,
@@ -139,8 +138,7 @@
       "2025-11-23": 2,
       "2025-11-22": 6,
       "2025-11-21": 2,
-      "2025-11-20": 14,
-      "2025-11-19": 3
+      "2025-11-20": 14
     }
   },
   {
@@ -198,8 +196,7 @@
       "2025-11-23": 2,
       "2025-11-22": 6,
       "2025-11-21": 2,
-      "2025-11-20": 14,
-      "2025-11-19": 3
+      "2025-11-20": 14
     }
   },
   {
@@ -208,18 +205,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yeetest.avianjay.sbs.ico",
     "slug": "discord-bot-test",
     "status": "down",
-    "uptime": "78.55%",
+    "uptime": "78.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.36%",
-    "uptimeYear": "78.55%",
+    "uptimeMonth": "5.14%",
+    "uptimeYear": "78.45%",
     "time": 723,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 482,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2026-11-18": 1327,
+      "2026-11-19": 420,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -338,7 +336,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ue2-proc.avianjay.sbs.ico",
     "slug": "self-flagger",
     "status": "down",
-    "uptime": "51.61%",
+    "uptime": "51.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -349,7 +347,8 @@
     "timeMonth": 0,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2026-11-18": 1327,
+      "2026-11-19": 420,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -534,8 +533,7 @@
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 439,
-      "2025-11-20": 14,
-      "2025-11-19": 1411
+      "2025-11-20": 14
     }
   },
   {
@@ -544,11 +542,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/agpp.avianjay.sbs.ico",
     "slug": "ani-gamer-plus",
     "status": "up",
-    "uptime": "78.06%",
+    "uptime": "78.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "95.63%",
-    "uptimeYear": "78.06%",
+    "uptimeYear": "78.09%",
     "time": 2120,
     "timeDay": 1296,
     "timeWeek": 658,
@@ -657,7 +655,7 @@
     "timeDay": 0,
     "timeWeek": 704,
     "timeMonth": 1245,
-    "timeYear": 581,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2026-10-24": 54,
       "2026-10-18": 636,
@@ -737,8 +735,7 @@
       "2025-11-23": 2,
       "2025-11-22": 6,
       "2025-11-21": 2,
-      "2025-11-20": 14,
-      "2025-11-19": 3
+      "2025-11-20": 14
     }
   },
   {
@@ -915,18 +912,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw-proc.avianjay.sbs.ico",
     "slug": "paper-mc-server",
     "status": "down",
-    "uptime": "53.90%",
+    "uptime": "53.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.90%",
+    "uptimeYear": "53.84%",
     "time": 221,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2026-11-18": 1327,
+      "2026-11-19": 420,
+      "2026-11-18": 1440,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -1124,11 +1122,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tw-proc.avianjay.sbs.ico",
     "slug": "geyser-mc-server",
     "status": "up",
-    "uptime": "94.53%",
+    "uptime": "94.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.14%",
-    "uptimeYear": "94.53%",
+    "uptimeYear": "94.54%",
     "time": 305,
     "timeDay": 0,
     "timeWeek": 182,
@@ -1205,7 +1203,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/breakblock.avianjay.sbs.ico",
     "slug": "break-block-server",
     "status": "down",
-    "uptime": "55.17%",
+    "uptime": "55.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1214,7 +1212,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 337,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2026-06-16": 128,
       "2026-06-15": 1440,
@@ -1397,8 +1395,7 @@
       "2025-11-23": 2,
       "2025-11-22": 6,
       "2025-11-21": 2,
-      "2025-11-20": 14,
-      "2025-11-19": 3
+      "2025-11-20": 14
     }
   }
 ]
